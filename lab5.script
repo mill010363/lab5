@@ -1,0 +1,26 @@
+Script started on Wed May 20 22:43:46 2015
+bash: prompt_git: command not found
+[?1034h]0;~/desktop/程式設計/lab5[1m[91mchinikusa [90mat [38;5;172mchenyuzuodeMacBook-Air.local [90min [38;5;190m~/desktop/程式設計/lab5
+(B[m[90m$ (B[mmake
+c++    -c -o HugeInt.o HugeInt.cpp
+[1mHugeInt.cpp:15:22: [0m[0;1;35mwarning: [0m[1mrelational comparison result
+      unused [-Wunused-comparison][0m
+    for(int i=0,j=t;i<t,j>0;j--,i++){
+[0;1;32m                    ~^~
+[0m[1mHugeInt.cpp:158:22: [0m[0;1;35mwarning: [0m[1mrelational comparison result
+      unused [-Wunused-comparison][0m
+    for(int i=0,j=t;i<t,j>0;j--,i++){
+[0;1;32m                    ~^~
+[0m2 warnings generated.
+g++ -o main main.o HugeInt.o
+bash: prompt_git: command not found
+]0;~/desktop/程式設計/lab5[1m[91mchinikusa [90mat [38;5;172mchenyuzuodeMacBook-Air.local [90min [38;5;190m~/desktop/程式設計/lab5
+(B[m[90m$ (B[m./main
+2345
+2345+28825252=28827597
+314159265358979321501
+bash: prompt_git: command not found
+]0;~/desktop/程式設計/lab5[1m[91mchinikusa [90mat [38;5;172mchenyuzuodeMacBook-Air.local [90min [38;5;190m~/desktop/程式設計/lab5
+(B[m[90m$ (B[mexit
+
+Script done on Wed May 20 22:44:52 2015
